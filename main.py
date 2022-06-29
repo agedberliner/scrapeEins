@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.options import Options
 
 # //*[@id="textblock_233905"]/div/div/p/span[1]
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.color import Color
 
 
 def print_hi(name):
@@ -18,7 +19,7 @@ def print_hi(name):
 
 
 def getarticles(url):
-    browser = webdriver.ChromiumEdge()
+    browser = webdriver.Firefox()
     browser.get(url)
     listOfLinks = browser.find_elements(by=By.XPATH, value="//a[@href]")
     articles = []
@@ -37,7 +38,7 @@ def getarticles(url):
 
 
 def gettext(articles):
-    browser = webdriver.ChromiumEdge()
+    browser = webdriver.Firefox()
     text = [""] * len(articles)
     textindex = 0
     for article in articles:
@@ -52,7 +53,9 @@ def gettext(articles):
                break
             #print(browser.find_element(by=By.XPATH, value="/html/body/div[2]/main/section[" + str(temp) + "]/div/div").text)
             text[textindex] = text[textindex] + (browser.find_element(by=By.XPATH, value="/html/body/div[2]/main/section[" + str(temp) + "]/div/div").text)
+            print((browser.find_element(by=By.XPATH, value="/html/body/div[2]/main/section[" + str(temp) + "]/div/div").value_of_css_property('color')))
             temp += 1
+
 
         textindex += 1
 
@@ -64,15 +67,12 @@ def file(text):
 
     temp = 1
     for t in text:
-        print(temp)
+        #print(temp)
         filetest.write(t)
         filetest.write("\n\n\n\n\n ")
         temp += 1
 
     filetest.close()
-
-
-
 
 
 
