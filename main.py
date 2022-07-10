@@ -12,6 +12,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.color import Color
 
+import csv
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -74,6 +76,28 @@ def file(text):
 
     filetest.close()
 
+def ptest(url):
+    browser = webdriver.Firefox()
+    browser.get(url)
+    listofp = browser.find_elements(by=By.TAG_NAME, value='p')
+    counter = 0
+    line = ["", "", url]
+    for p in listofp:
+        if p.text.__contains__('Text:'):
+            continue
+        if p.text.__contains__('Lust auf mehr') or p.text.__contains__('Mehr zum Thema'):
+            break
+        print(counter)
+        line[counter] = p.text
+        #print(tags[counter])
+        #print(p.text)
+        print("line: " + "counter: " + str(counter) + " " + line[counter])
+        print('\n\n')
+        if counter == 1:
+            writer.writerow(line)
+        counter = (counter + 1) % 2
+
+
 
 
 
@@ -82,9 +106,18 @@ def file(text):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     url = 'https://www.brandeins.de/themen/rubriken/leichte-sprache'
-    #path = '/html/body/div[2]/main/section[2]/div/div/p'
+    ##path = '/html/body/div[2]/main/section[2]/div/div/p'
     arts = getarticles(url)
-    txt = gettext(arts)
-    file(txt)
+    #txt = gettext(arts)
+    #file(txt)
+    csvcat = ['complex', 'simple', 'source']
+    f =  open('brandeins.csv', 'w', encoding='UTF8')
+    writer = csv.writer(f)
+    writer.writerow(csvcat)
+
+    for a in arts:
+        ptest(a)
+
+    #ptest('https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis')
 
 

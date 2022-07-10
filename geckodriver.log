@@ -172,3 +172,1015 @@ JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazi
 JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/lebensmittel/leichte-sprache-eine-frau-nur-zum-reden, line 175: TypeError: consent is null
 JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
 JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/marketing/dann-hat-die-firma-pech-dann-muss-sie-marketing-machen, line 175: TypeError: consent is null
+1656959728527	geckodriver	INFO	Listening on 127.0.0.1:49942
+1656959731618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileqfuyru"
+1656959732377	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49943
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileqfuyru\\search.json.mozlz4", (void 0)))
+1656959734489	Marionette	INFO	Listening on port 49968
+DevTools listening on ws://localhost:49943/devtools/browser/2001397e-3c13-4a7b-a224-5ccc76766130
+Read port: 49968
+1656959734552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/themen/rubriken/leichte-sprache, line 171: TypeError: consent is null
+1656960051143	Marionette	INFO	Stopped listening on port 49968
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileXpoICA"
+1656959742098	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50007
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXpoICA\\search.json.mozlz4", (void 0)))
+1656959744035	Marionette	INFO	Listening on port 50035
+DevTools listening on ws://localhost:50007/devtools/browser/1a318780-9296-46a1-87d7-10b413a319c6
+Read port: 50035
+1656959744157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/die-neue-konsumgesellschaft/erst-mal-darfst-du-nur-ein-jahr-fest-bei-uns-arbeiten, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/neuer-generationenvertrag/andere-leute-duerfen-damit-nicht-schaukeln-oder-huepfen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/pause/die-leute-sollen-denken-ich-muss-jetzt-schnell-was-kaufen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/unternehmertum/eine-maschine-zum-kochen-von-tee, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/neu-sortieren/mit-uns-koennen-mehr-leute-geld-verdienen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/unterhaltung/ins-gefaengnis-kommt-man-nicht-einfach-so, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/investieren/leichte-sprache-da-haben-sie-neues-ueber-den-umgang-mit-bibern-erfahren, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/arbeiten/die-leute-finden-awesome-bestimmt-super, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/kommunikation/leichte-sprache-du-sollst-viel-machen-und-wenig-reden, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/leichte-sprache-die-hose-passt-und-mein-cousin-ist-im-gefaengnis, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/schoene-bescherung/dann-wird-aus-der-belohnung-eine-strafe, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/qualitaet/ich-tu-mir-so-leid-deswegen-will-ich-jetzt-zaubern-lernen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/wahrnehmung/leichte-sprache-ein-krankenhaus-ist-kein-hotel, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/gehalt/leichte-sprache-also-haben-wir-uns-nur-ganz-wenig-vorgenommen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/mit-leichtem-gepaeck/dann-kriegt-der-journalist-kein-geld, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/komplexitaet/unser-video-ist-super-geworden, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/unabhaengigkeit/leichte-sprache-die-wirkung-von-alkohol-ist-meistens-angenehm, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/provinz/leichte-sprache-oder-kommt-dabei-nur-unsinn-raus, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/gefuehle/die-leichte-sprache-das-kannst-du-auf-jeden-fall-glauben, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/digitalisierung/leichte-sprache-die-leute-sollen-nicht-so-viel-verdienen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/marketing/mit-kartoffeln-und-chia-samen-gibt-es-selten-probleme, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/widerstaende-ueberwinden/leichte-sprache-jeder-sieht-etwas-anderes, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/naehe-und-distanz/leichte-sprache-und-ich-habe-es-trotzdem-erzaehlt, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/lebensmittel/leichte-sprache-eine-frau-nur-zum-reden, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/reste/man-darf-nicht-im-muell-von-anderen-leuten-wuehlen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/personal/leichte-sprache-es-geht-vorbei, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/wetter/leichte-sprache-damit-keiner-wurst-kauft-wenn-er-keine-wurst-will, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/service/leichte-sprache-der-musiker-hat-wohl-keine-drogen-dabei-genommen, line 176: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/geld/leichte-sprache-denn-sie-wollen-alle-gerade-zaehne, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/geduld/leichte-sprache-dann-weiss-google-noch-mehr, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/mobilitaet/leichte-sprache-hauptsache-das-gras-ist-gruen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/marketing/dann-hat-die-firma-pech-dann-muss-sie-marketing-machen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/reset/bitcoins-leichte-sprache, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/ueberraschung/denn-der-wald-ist-wichtig, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/frauen-maenner/auf-dem-salat-liegt-eine-muschel, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/strategie/das-war-sehr-frech-von-ihnen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/loslassen/solange-putze-ich-diesen-zahn-schon, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/wettbewerb/einer-muss-draussen-stehen-und-winken, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/umsonst/es-gibt-sogar-einen-hausmeister, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/fortschritt/was-aendert-sich-fuer-mich, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/mut/frueher-waren-die-mitarbeiter-manchmal-traurig, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/neue-arbeit/oft-verlierst-du-geld-weil-die-leute-ihre-meinung-aendern, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/marketing/du-kannst-gerne-mit-deinen-feinden-bloedsinn-machen, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/offenheit/dafuer-haben-wir-ganz-viele-regeln-gemacht, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/intuition/wir-haben-sie-nicht-gut-beraten, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/gesundheit/wenn-mein-kollege-mit-absicht-boese-zu-mir-ist, line 179: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne, line 175: TypeError: consent is null
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/lust/david-cameron-ist-sich-ganz-sicher, line 175: TypeError: consent is null
+1656960045505	Marionette	INFO	Stopped listening on port 50035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656960847755	geckodriver	INFO	Listening on 127.0.0.1:50281
+1656960850852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXLv04J"
+1656960851297	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50282
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXLv04J\\search.json.mozlz4", (void 0)))
+1656960853154	Marionette	INFO	Listening on port 50304
+DevTools listening on ws://localhost:50282/devtools/browser/f28998aa-ca4b-480c-95f1-8aef231231f1
+Read port: 50304
+1656960853245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1656960862451	Marionette	INFO	Stopped listening on port 50304
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656961003620	geckodriver	INFO	Listening on 127.0.0.1:50364
+1656961006694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile3siEMa"
+1656961007068	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50365
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile3siEMa\\search.json.mozlz4", (void 0)))
+1656961008804	Marionette	INFO	Listening on port 50388
+DevTools listening on ws://localhost:50365/devtools/browser/2e43316c-337a-42aa-aece-b85d83534923
+Read port: 50388
+1656961008928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1656961403393	Marionette	INFO	Stopped listening on port 50388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileyjtIAH"
+1656961038732	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50427
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileyjtIAH\\search.json.mozlz4", (void 0)))
+1656961040515	Marionette	INFO	Listening on port 50447
+DevTools listening on ws://localhost:50427/devtools/browser/7896042e-70ed-47dd-bf8e-9ab5770b5e80
+Read port: 50447
+1656961040572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1656961047652	Marionette	INFO	Stopped listening on port 50447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656961083357	geckodriver	INFO	Listening on 127.0.0.1:50493
+1656961086394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileSj2uL0"
+1656961086775	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50494
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileSj2uL0\\search.json.mozlz4", (void 0)))
+1656961088623	Marionette	INFO	Listening on port 50515
+DevTools listening on ws://localhost:50494/devtools/browser/97b822e6-611c-4104-9e2b-8cd9b71eaa8a
+Read port: 50515
+1656961088729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1656961096219	Marionette	INFO	Stopped listening on port 50515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656961414330	geckodriver	INFO	Listening on 127.0.0.1:50598
+1656961417375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile3PdEId"
+1656961417752	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50599
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile3PdEId\\search.json.mozlz4", (void 0)))
+1656961419506	Marionette	INFO	Listening on port 50621
+DevTools listening on ws://localhost:50599/devtools/browser/e9230698-641a-4663-bf1d-3bb1789d372f
+Read port: 50621
+1656961419604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/investieren/leichte-sprache-da-haben-sie-neues-ueber-den-umgang-mit-bibern-erfahren, line 175: TypeError: consent is null
+1656961426109	Marionette	INFO	Stopped listening on port 50621
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1656961571472	geckodriver	INFO	Listening on 127.0.0.1:50673
+1656961574537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1LIZPC"
+1656961574928	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50674
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1LIZPC\\search.json.mozlz4", (void 0)))
+1656961576707	Marionette	INFO	Listening on port 50694
+DevTools listening on ws://localhost:50674/devtools/browser/ca548ff8-f234-4e3f-bfb2-0c11008394ce
+Read port: 50694
+1656961576780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
+1656961581856	Marionette	INFO	Stopped listening on port 50694
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657126551070	geckodriver	INFO	Listening on 127.0.0.1:50357
+1657126554166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileE0RHHA"
+1657126554877	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50358
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileE0RHHA\\search.json.mozlz4", (void 0)))
+1657126556738	Marionette	INFO	Listening on port 50378
+DevTools listening on ws://localhost:50358/devtools/browser/87eb33d4-f5da-49cc-8687-519b7af99b03
+Read port: 50378
+1657126556895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
+1657126570609	Marionette	INFO	Stopped listening on port 50378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657126594254	geckodriver	INFO	Listening on 127.0.0.1:50440
+1657126597298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilelZxspb"
+1657126597688	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50441
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilelZxspb\\search.json.mozlz4", (void 0)))
+1657126600027	Marionette	INFO	Listening on port 50463
+DevTools listening on ws://localhost:50441/devtools/browser/13a65fdd-ca19-434a-914e-0d901161f456
+Read port: 50463
+1657126600100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
+1657126614968	Marionette	INFO	Stopped listening on port 50463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657126686717	geckodriver	INFO	Listening on 127.0.0.1:50614
+1657126689783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesGQz3C"
+1657126690175	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50615
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesGQz3C\\search.json.mozlz4", (void 0)))
+1657126692018	Marionette	INFO	Listening on port 50637
+DevTools listening on ws://localhost:50615/devtools/browser/47f7a891-57c9-4be2-ba81-fb70f70f2e40
+Read port: 50637
+1657126692119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657126726400	Marionette	INFO	Stopped listening on port 50637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ilejezuEx"
+1657126718042	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50675
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilejezuEx\\search.json.mozlz4", (void 0)))
+1657126720727	Marionette	INFO	Listening on port 50699
+DevTools listening on ws://localhost:50675/devtools/browser/930278be-efa4-47af-9d12-1eb2b6f599c3
+Read port: 50699
+1657126720805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657126725040	Marionette	INFO	Stopped listening on port 50699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657126839082	geckodriver	INFO	Listening on 127.0.0.1:50739
+1657126842144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileDBnG9k"
+1657126842547	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50740
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileDBnG9k\\search.json.mozlz4", (void 0)))
+1657126844270	Marionette	INFO	Listening on port 50760
+DevTools listening on ws://localhost:50740/devtools/browser/bfb9a145-96e1-4b04-a3fd-319a2cc312b6
+Read port: 50760
+1657126844381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657126854395	Marionette	INFO	Stopped listening on port 50760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657316238021	geckodriver	INFO	Listening on 127.0.0.1:50607
+1657316241091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4kXDcv"
+1657316241820	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50608
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4kXDcv\\search.json.mozlz4", (void 0)))
+1657316243771	Marionette	INFO	Listening on port 50629
+DevTools listening on ws://localhost:50608/devtools/browser/9047c3ab-9fa0-4be4-9d22-029c7196a882
+Read port: 50629
+1657316243882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657316269663	Marionette	INFO	Stopped listening on port 50629
+[Parent 6724, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657316284067	geckodriver	INFO	Listening on 127.0.0.1:50678
+1657316287115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileI771ek"
+1657316287518	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50679
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileI771ek\\search.json.mozlz4", (void 0)))
+1657316289279	Marionette	INFO	Listening on port 50700
+DevTools listening on ws://localhost:50679/devtools/browser/fffe2723-4bd1-44aa-8584-0f979dbd35ee
+Read port: 50700
+1657316289348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657316294794	Marionette	INFO	Stopped listening on port 50700
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657316733353	geckodriver	INFO	Listening on 127.0.0.1:50862
+1657316736415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileJLK06z"
+1657316736811	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50863
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileJLK06z\\search.json.mozlz4", (void 0)))
+1657316738573	Marionette	INFO	Listening on port 50883
+DevTools listening on ws://localhost:50863/devtools/browser/7a12551a-ccd9-4ffc-8bf6-7044c9a1ce13
+Read port: 50883
+1657316738657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657316753424	Marionette	INFO	Stopped listening on port 50883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657317049407	geckodriver	INFO	Listening on 127.0.0.1:50939
+1657317052452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQ6umLb"
+1657317052846	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50940
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQ6umLb\\search.json.mozlz4", (void 0)))
+1657317054762	Marionette	INFO	Listening on port 50961
+Read port: 50961
+1657317054814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50940/devtools/browser/5247dded-dc05-4a0e-b07d-344ca90bea50
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317065819	Marionette	INFO	Stopped listening on port 50961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657317107901	geckodriver	INFO	Listening on 127.0.0.1:51010
+1657317110971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoV0e7X"
+1657317111406	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51011
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoV0e7X\\search.json.mozlz4", (void 0)))
+1657317113259	Marionette	INFO	Listening on port 51032
+DevTools listening on ws://localhost:51011/devtools/browser/2df9842a-53d2-41a6-b4a0-af97c51c1468
+Read port: 51032
+1657317113340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317157513	Marionette	INFO	Stopped listening on port 51032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657317194029	geckodriver	INFO	Listening on 127.0.0.1:51080
+1657317197084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilekqAI8S"
+1657317197478	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51081
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilekqAI8S\\search.json.mozlz4", (void 0)))
+1657317199422	Marionette	INFO	Listening on port 51104
+DevTools listening on ws://localhost:51081/devtools/browser/42512258-7561-431c-9cac-b4f737f8dbb6
+Read port: 51104
+1657317199537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657317294518	Marionette	INFO	Stopped listening on port 51104
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+338	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51151
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofiles85vlj\\search.json.mozlz4", (void 0)))
+1657317236251	Marionette	INFO	Listening on port 51172
+DevTools listening on ws://localhost:51151/devtools/browser/c80bedc7-c672-4457-9737-8db5b1880fb0
+Read port: 51172
+1657317236304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317273878	Marionette	INFO	Stopped listening on port 51172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657317419069	geckodriver	INFO	Listening on 127.0.0.1:51246
+1657317422138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilemMt20a"
+1657317422745	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51247
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilemMt20a\\search.json.mozlz4", (void 0)))
+1657317424640	Marionette	INFO	Listening on port 51275
+DevTools listening on ws://localhost:51247/devtools/browser/d475d9ce-7e67-4c9c-ac2f-18b5d9894f9b
+Read port: 51275
+1657317424751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317569582	Marionette	INFO	Stopped listening on port 51275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile6vOjT9"
+1657317478408	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51352
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile6vOjT9\\search.json.mozlz4", (void 0)))
+1657317480364	Marionette	INFO	Listening on port 51374
+Read port: 51374
+1657317480397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51352/devtools/browser/abbbe0fc-25fe-4698-9eb0-f845cac99c92
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317499395	Marionette	INFO	Stopped listening on port 51374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657317568211	geckodriver	INFO	Listening on 127.0.0.1:51471
+1657317571242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile37F0A9"
+1657317571647	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51472
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile37F0A9\\search.json.mozlz4", (void 0)))
+1657317573409	Marionette	INFO	Listening on port 51495
+DevTools listening on ws://localhost:51472/devtools/browser/82c11b7b-f4c2-4df0-8034-0501b08eaca1
+Read port: 51495
+1657317573468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657317806186	Marionette	INFO	Stopped listening on port 51495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657483272587	geckodriver	INFO	Listening on 127.0.0.1:50368
+1657483275691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileTq51T4"
+1657483276430	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50369
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileTq51T4\\search.json.mozlz4", (void 0)))
+1657483278554	Marionette	INFO	Listening on port 50390
+DevTools listening on ws://localhost:50369/devtools/browser/ed4c0bd3-d44c-41bc-a42a-9f5c766d9823
+Read port: 50390
+1657483278632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657483284723	Marionette	INFO	Stopped listening on port 50390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657483299863	geckodriver	INFO	Listening on 127.0.0.1:50449
+1657483302925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilepSKk3N"
+1657483303327	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50450
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilepSKk3N\\search.json.mozlz4", (void 0)))
+1657483305269	Marionette	INFO	Listening on port 50472
+Read port: 50472
+DevTools listening on ws://localhost:50450/devtools/browser/643dd3f7-cc57-4f67-abae-9b3e9491dc96
+1657483305304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657483368023	Marionette	INFO	Stopped listening on port 50472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1657483628686	geckodriver	INFO	Listening on 127.0.0.1:50636
+1657483631754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileqtoBrN"
+1657483632153	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50637
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileqtoBrN\\search.json.mozlz4", (void 0)))
+1657483633976	Marionette	INFO	Listening on port 50658
+DevTools listening on ws://localhost:50637/devtools/browser/ef9581d1-5a90-4514-bbb9-a1bd70c1f7d4
+Read port: 50658
+1657483634105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657483663232	Marionette	INFO	Stopped listening on port 50658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657483678763	geckodriver	INFO	Listening on 127.0.0.1:50719
+1657483681834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilenVL5T5"
+1657483682282	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50720
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilenVL5T5\\search.json.mozlz4", (void 0)))
+1657483684073	Marionette	INFO	Listening on port 50742
+DevTools listening on ws://localhost:50720/devtools/browser/46985ee6-f902-4292-99c5-b8930f168447
+Read port: 50742
+1657483684174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50808
+1657483830618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoRAA6j"
+1657483830991	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoRAA6j\\search.json.mozlz4", (void 0)))
+1657483832999	Marionette	INFO	Listening on port 50829
+DevTools listening on ws://localhost:50809/devtools/browser/4bd17ca4-142e-4a8d-b0e4-69cd020a24db
+Read port: 50829
+1657483833102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50871
+1657483849287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile393cmQ"
+1657483849667	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50872
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile393cmQ\\search.json.mozlz4", (void 0)))
+1657483851625	Marionette	INFO	Listening on port 50894
+DevTools listening on ws://localhost:50872/devtools/browser/e05bcff9-a054-427c-b8a5-7fb7d8d630fc
+Read port: 50894
+1657483851749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50941
+1657483930046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1KJ30x"
+1657483930451	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50942
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1KJ30x\\search.json.mozlz4", (void 0)))
+1657483932496	Marionette	INFO	Listening on port 50964
+DevTools listening on ws://localhost:50942/devtools/browser/aca8a972-be43-47ce-9103-f027c5574404
+Read port: 50964
+1657483932616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51025
+1657483986836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile57pF44"
+1657483987266	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51026
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile57pF44\\search.json.mozlz4", (void 0)))
+1657483989230	Marionette	INFO	Listening on port 51048
+DevTools listening on ws://localhost:51026/devtools/browser/c7d329b9-f5f9-4926-9b9c-c7fd6b772485
+Read port: 51048
+1657483989303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51102
+1657484054167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesi9tOZ"
+1657484054543	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51103
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesi9tOZ\\search.json.mozlz4", (void 0)))
+1657484056476	Marionette	INFO	Listening on port 51124
+DevTools listening on ws://localhost:51103/devtools/browser/9f86ad6a-f03f-4485-b307-13745a6b8fdb
+Read port: 51124
+1657484056599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657484097589	geckodriver	INFO	Listening on 127.0.0.1:51184
+1657484100656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileGBkbNs"
+1657484101040	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51185
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileGBkbNs\\search.json.mozlz4", (void 0)))
+1657484103039	Marionette	INFO	Listening on port 51207
+DevTools listening on ws://localhost:51185/devtools/browser/1e94c696-9d7b-40dd-b534-8cd8ffcd1982
+Read port: 51207
+1657484103122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657484180091	geckodriver	INFO	Listening on 127.0.0.1:51251
+1657484183135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileOn1Jxp"
+1657484183530	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51252
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileOn1Jxp\\search.json.mozlz4", (void 0)))
+1657484185468	Marionette	INFO	Listening on port 51272
+DevTools listening on ws://localhost:51252/devtools/browser/652f9850-cd62-43c6-a33e-5a3f45ab692f
+Read port: 51272
+1657484185579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657484307633	geckodriver	INFO	Listening on 127.0.0.1:51378
+1657484310680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXLbBDB"
+1657484311071	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51379
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXLbBDB\\search.json.mozlz4", (void 0)))
+1657484313068	Marionette	INFO	Listening on port 51402
+Read port: 51402
+DevTools listening on ws://localhost:51379/devtools/browser/0a06f718-e99a-42df-ad07-b8eb60c846c4
+1657484313171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/themen/rubriken/leichte-sprache, line 171: TypeError: consent is null
+1657484316878	geckodriver	INFO	Listening on 127.0.0.1:51439
+1657484319947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile9EdSph"
+1657484320350	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51440
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile9EdSph\\search.json.mozlz4", (void 0)))
+1657484322755	Marionette	INFO	Listening on port 51466
+DevTools listening on ws://localhost:51440/devtools/browser/5e8ede31-9494-4508-8708-67b16e30262f
+Read port: 51466
+1657484322875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-ei1657484328334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileu8qHFN"
+1657484328787	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51513
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileu8qHFN\\search.json.mozlz4", (void 0)))
+1657484331198	Marionette	INFO	Listening on port 51540
+DevTools listening on ws://localhost:51513/devtools/browser/960d81e8-9621-45a4-befa-f314ed211385
+Read port: 51540
+1657484331313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/leistung/man-darf-auch-nicht-so-tun-als-waere-es-ein-milch-erzeugnis, line 175: TypeError: consent is null
+1657484333784	geckodriver	INFO	Listening on 127.0.0.1:51575
+1657484336814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileZbw0rR"
+1657484337229	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51576
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileZbw0rR\\search.json.mozlz4", (void 0)))
+1657484339286	Marionette	INFO	Listening on port 51599
+DevTools listening on ws://localhost:51576/devtools/browser/3694f7a0-26cd-40c6-be13-bc08391ebc5b
+Read port: 51599
+1657484339371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/neuer-generationenvertrag/andere-leute-duerfen-damit-nicht-schaukeln-oder-huepfen, line 175: TypeError: consent is null
+1657484341549	geckodriver	INFO	Listening on 127.0.0.1:51636
+1657484344617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileRHZQ3o"
+1657484345017	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51637
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileRHZQ3o\\search.json.mozlz4", (void 0)))
+1657484346957	Marionette	INFO	Listening on port 51658
+DevTools listening on ws://localhost:51637/devtools/browser/eb1d1428-931c-438e-a7b0-3a8a13ae0b58
+Read port: 51658
+1657484347070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/pause/die-leute-sollen-denken-ich-muss-jetzt-schnell-was-kaufen, line 175: TypeError: consent is null
+ebugging-port" "51693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile7FudqA"
+1657484352879	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51693
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile7FudqA\\search.json.mozlz4", (void 0)))
+1657484355231	Marionette	INFO	Listening on port 51719
+DevTools listening on ws://localhost:51693/devtools/browser/9d8c2b7f-9843-4b10-9c0e-aaf07a95f5d1
+Read port: 51719
+1657484355344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/unternehmertum/eine-maschine-zum-kochen-von-tee, line 175: TypeError: consent is null
+1657484357562	geckodriver	INFO	Listening on 127.0.0.1:51759
+1657484360589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile5alIdE"
+1657484360974	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51760
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile5alIdE\\search.json.mozlz4", (void 0)))
+1657484363167	Marionette	INFO	Listening on port 51787
+DevTools listening on ws://localhost:51760/devtools/browser/dc79fa69-f93a-46ee-8766-de9f0686bf4c
+Read port: 51787
+1657484363287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/neu-sortieren/mit-uns-koennen-mehr-leute-geld-verdienen, line 175: TypeError: consent is null
+1657484365406	geckodriver	INFO	Listening on 127.0.0.1:51834
+1657484368440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesjZa2l"
+1657484368835	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51835
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilesjZa2l\\search.json.mozlz4", (void 0)))
+1657484370750	Marionette	INFO	Listening on port 51856
+DevTools listening on ws://localhost:51835/devtools/browser/bd6c3b4a-6f01-485e-bd23-34c93fece459
+Read port: 51856
+1657484370796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/unterhaltung/ins-gefaengnis-kommt-man-nicht-einfach-so, line 175: TypeError: consent is null
+1657484373289	geckodriver	INFO	Listening on 127.0.0.1:51896
+1657484376322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofiled0V1dm"
+1657484376689	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51897
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofiled0V1dm\\search.json.mozlz4", (void 0)))
+1657484378607	Marionette	INFO	Listening on port 51923
+DevTools listening on ws://localhost:51897/devtools/browser/fb50d9ad-5470-4c36-9654-0d5f60275aec
+Read port: 51923
+1657484378662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/investieren/leichte-sprache-da-haben-sie-neues-ueber-den-umgang-mit-bibern-erfahren, line 175: TypeError: consent is null
+1657484381284	geckodriver	INFO	Listening on 127.0.0.1:51973
+1657484384324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileJppPIQ"
+1657484384741	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51974
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileJppPIQ\\search.json.mozlz4", (void 0)))
+1657484386836	Marionette	INFO	Listening on port 52000
+DevTools listening on ws://localhost:51974/devtools/browser/ebc2a4c4-8110-4edf-ae46-1a4cb3071302
+Read port: 52000
+1657484386940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/arbeiten/die-leute-finden-awesome-bestimmt-super, line 175: TypeError: consent is null
+1657484389378	geckodriver	INFO	Listening on 127.0.0.1:52035
+1657484392426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile9bejck"
+1657484392827	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52036
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile9bejck\\search.json.mozlz4", (void 0)))
+1657484394736	Marionette	INFO	Listening on port 52060
+Read port: 52060
+1657484394767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52036/devtools/browser/eadd9776-83f3-4373-8d24-5236ddd266af
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/kommunikation/leichte-sprache-du-sollst-viel-machen-und-wenig-reden, line 175: TypeError: consent is null
+1657484396671	geckodriver	INFO	Listening on 127.0.0.1:52097
+1657484399702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilecJk5FV"
+1657484400113	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52098
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilecJk5FV\\search.json.mozlz4", (void 0)))
+1657484401935	Marionette	INFO	Listening on port 52121
+DevTools listening on ws://localhost:52098/devtools/browser/e67135f0-32f3-4cc9-b8cc-b3f16fd00a05
+Read port: 52121
+1657484402047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/leichte-sprache-die-hose-passt-und-mein-cousin-ist-im-gefaengnis, line 175: TypeError: consent is null
+1657484404027	geckodriver	INFO	Listening on 127.0.0.1:52159
+1657484407068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile16rGco"
+1657484407467	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52160
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile16rGco\\search.json.mozlz4", (void 0)))
+1657484409290	Marionette	INFO	Listening on port 52183
+DevTools listening on ws://localhost:52160/devtools/browser/a7a8971a-991b-44dc-b2f4-e61fa5096805
+Read port: 52183
+1657484409410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/schoene-bescherung/dann-wird-aus-der-belohnung-eine-strafe, line 175: TypeError: consent is null
+1657484411339	geckodriver	INFO	Listening on 127.0.0.1:52221
+1657484414377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileFFlyzW"
+1657484414799	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52222
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileFFlyzW\\search.json.mozlz4", (void 0)))
+1657484416693	Marionette	INFO	Listening on port 52245
+DevTools listening on ws://localhost:52222/devtools/browser/c1e1d893-5ff7-4f7d-9d7f-76543426c6e8
+Read port: 52245
+1657484416817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/qualitaet/ich-tu-mir-so-leid-deswegen-will-ich-jetzt-zaubern-lernen, line 175: TypeError: consent is null
+1657484419497	geckodriver	INFO	Listening on 127.0.0.1:52285
+1657484422540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile0Bedvs"
+1657484422922	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52286
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile0Bedvs\\search.json.mozlz4", (void 0)))
+1657484424816	Marionette	INFO	Listening on port 52311
+DevTools listening on ws://localhost:52286/devtools/browser/97d2a8f9-3b60-439d-8e34-c09b2e63c874
+Read port: 52311
+1657484424866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/wahrnehmung/leichte-sprache-ein-krankenhaus-ist-kein-hotel, line 175: TypeError: consent is null
+1657484426607	geckodriver	INFO	Listening on 127.0.0.1:52346
+1657484429647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileNu8qK5"
+1657484430025	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52347
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileNu8qK5\\search.json.mozlz4", (void 0)))
+1657484431891	Marionette	INFO	Listening on port 52375
+DevTools listening on ws://localhost:52347/devtools/browser/253c20ad-6017-49a9-9538-4e6850eae1cb
+Read port: 52375
+1657484431967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/gehalt/leichte-sprache-also-haben-wir-uns-nur-ganz-wenig-vorgenommen, line 175: TypeError: consent is null
+1657484433610	geckodriver	INFO	Listening on 127.0.0.1:52414
+1657484436658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4ueaKL"
+1657484437132	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52415
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4ueaKL\\search.json.mozlz4", (void 0)))
+1657484439038	Marionette	INFO	Listening on port 52444
+DevTools listening on ws://localhost:52415/devtools/browser/000415f8-ce56-4077-ad9c-f40b45a5154c
+Read port: 52444
+1657484439095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/mit-leichtem-gepaeck/dann-kriegt-der-journalist-kein-geld, line 175: TypeError: consent is null
+1657484441345	geckodriver	INFO	Listening on 127.0.0.1:52486
+1657484444403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile0uWmv0"
+1657484444844	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52487
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile0uWmv0\\search.json.mozlz4", (void 0)))
+1657484446923	Marionette	INFO	Listening on port 52517
+Read port: 52517
+DevTools listening on ws://localhost:52487/devtools/browser/56fb8004-5815-4d15-aaab-b884fab9fc0f
+1657484446955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/komplexitaet/unser-video-ist-super-geworden, line 175: TypeError: consent is null
+1657484449158	geckodriver	INFO	Listening on 127.0.0.1:52566
+1657484452211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileOricTx"
+1657484452640	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52567
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileOricTx\\search.json.mozlz4", (void 0)))
+1657484454863	Marionette	INFO	Listening on port 52592
+DevTools listening on ws://localhost:52567/devtools/browser/72dfc4aa-d01b-48cb-9495-915dc3230d43
+Read port: 52592
+1657484454943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/unabhaengigkeit/leichte-sprache-die-wirkung-von-alkohol-ist-meistens-angenehm, line 175: TypeError: consent is null
+1657484457086	geckodriver	INFO	Listening on 127.0.0.1:52628
+1657484460131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileiOOidx"
+1657484460568	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52629
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileiOOidx\\search.json.mozlz4", (void 0)))
+1657484462440	Marionette	INFO	Listening on port 52652
+Read port: 52652
+DevTools listening on ws://localhost:52629/devtools/browser/2c2c22b6-fa3a-4275-845e-b1086f82a5dc
+1657484462469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/provinz/leichte-sprache-oder-kommt-dabei-nur-unsinn-raus, line 175: TypeError: consent is null
+1657484464479	geckodriver	INFO	Listening on 127.0.0.1:52690
+1657484467544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileV10tSr"
+1657484467983	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52691
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileV10tSr\\search.json.mozlz4", (void 0)))
+1657484469903	Marionette	INFO	Listening on port 52714
+DevTools listening on ws://localhost:52691/devtools/browser/d57e9d3f-b8dc-4711-88d8-a88de39d9373
+Read port: 52714
+1657484469974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/gefuehle/die-leichte-sprache-das-kannst-du-auf-jeden-fall-glauben, line 175: TypeError: consent is null
+1657484472189	geckodriver	INFO	Listening on 127.0.0.1:52754
+1657484475215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileCs0O1o"
+1657484475606	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52755
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileCs0O1o\\search.json.mozlz4", (void 0)))
+1657484477475	Marionette	INFO	Listening on port 52781
+DevTools listening on ws://localhost:52755/devtools/browser/17bb1386-7905-4a26-be6f-674d5eb80702
+Read port: 52781
+1657484477552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/digitalisierung/leichte-sprache-die-leute-sollen-nicht-so-viel-verdienen, line 175: TypeError: consent is null
+1657484479590	geckodriver	INFO	Listening on 127.0.0.1:52821
+1657484482625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileziCi4T"
+1657484483032	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52822
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileziCi4T\\search.json.mozlz4", (void 0)))
+1657484485026	Marionette	INFO	Listening on port 52846
+Read port: 52846
+DevTools listening on ws://localhost:52822/devtools/browser/b642515f-630f-4f16-9dfc-fefa9877f0f3
+1657484485054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/marketing/mit-kartoffeln-und-chia-samen-gibt-es-selten-probleme, line 175: TypeError: consent is null
+1657484488154	geckodriver	INFO	Listening on 127.0.0.1:52886
+1657484491206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileBHe6gg"
+1657484491606	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52887
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileBHe6gg\\search.json.mozlz4", (void 0)))
+1657484493643	Marionette	INFO	Listening on port 52919
+DevTools listening on ws://localhost:52887/devtools/browser/fbf89272-15e2-49d6-94c4-6714afff8d71
+Read port: 52919
+1657484493753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/widerstaende-ueberwinden/leichte-sprache-jeder-sieht-etwas-anderes, line 175: TypeError: consent is null
+1657484496532	geckodriver	INFO	Listening on 127.0.0.1:52967
+1657484499561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4BJEpw"
+1657484499983	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52968
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4BJEpw\\search.json.mozlz4", (void 0)))
+1657484502084	Marionette	INFO	Listening on port 53002
+DevTools listening on ws://localhost:52968/devtools/browser/0411b0b2-7904-47c8-9274-d22d7694e2ce
+Read port: 53002
+1657484502206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/naehe-und-distanz/leichte-sprache-und-ich-habe-es-trotzdem-erzaehlt, line 175: TypeError: consent is null
+1657484504656	geckodriver	INFO	Listening on 127.0.0.1:53038
+1657484507719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilew8QBas"
+1657484508299	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53039
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilew8QBas\\search.json.mozlz4", (void 0)))
+1657484510477	Marionette	INFO	Listening on port 53064
+DevTools listening on ws://localhost:53039/devtools/browser/ec8b13ca-a186-453b-8afd-bea4a5cd2f79
+Read port: 53064
+1657484510599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/lebensmittel/leichte-sprache-eine-frau-nur-zum-reden, line 175: TypeError: consent is null
+1657484512531	geckodriver	INFO	Listening on 127.0.0.1:53100
+1657484515591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilectYd1a"
+1657484516105	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53101
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilectYd1a\\search.json.mozlz4", (void 0)))
+1657484518235	Marionette	INFO	Listening on port 53131
+DevTools listening on ws://localhost:53101/devtools/browser/debfd1d8-2e3b-4fe5-91ea-2d26aa76319a
+Read port: 53131
+1657484518361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/reste/man-darf-nicht-im-muell-von-anderen-leuten-wuehlen, line 175: TypeError: consent is null
+1657484520566	geckodriver	INFO	Listening on 127.0.0.1:53167
+1657484523618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilemcN8up"
+1657484524027	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53168
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilemcN8up\\search.json.mozlz4", (void 0)))
+1657484526067	Marionette	INFO	Listening on port 53193
+DevTools listening on ws://localhost:53168/devtools/browser/9f53c961-11a9-4d60-8d2b-ccb94a704fab
+Read port: 53193
+1657484526168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/personal/leichte-sprache-es-geht-vorbei, line 175: TypeError: consent is null
+1657484528670	geckodriver	INFO	Listening on 127.0.0.1:53229
+1657484531711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileaSeS0w"
+1657484532103	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53230
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileaSeS0w\\search.json.mozlz4", (void 0)))
+1657484534298	Marionette	INFO	Listening on port 53255
+DevTools listening on ws://localhost:53230/devtools/browser/ee46620c-dac1-4812-b8c6-c3860184e14d
+Read port: 53255
+1657484534374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/wetter/leichte-sprache-damit-keiner-wurst-kauft-wenn-er-keine-wurst-will, line 175: TypeError: consent is null
+1657484536812	geckodriver	INFO	Listening on 127.0.0.1:53291
+1657484539834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilerfpiki"
+1657484540242	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53292
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilerfpiki\\search.json.mozlz4", (void 0)))
+1657484542519	Marionette	INFO	Listening on port 53318
+DevTools listening on ws://localhost:53292/devtools/browser/46d0dd09-9e0b-4b54-820b-48e795f092c1
+Read port: 53318
+1657484542619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/service/leichte-sprache-der-musiker-hat-wohl-keine-drogen-dabei-genommen, line 176: TypeError: consent is null
+1657484545166	geckodriver	INFO	Listening on 127.0.0.1:53356
+1657484548213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileUluZw5"
+1657484548604	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53357
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileUluZw5\\search.json.mozlz4", (void 0)))
+1657484550787	Marionette	INFO	Listening on port 53381
+DevTools listening on ws://localhost:53357/devtools/browser/87e70491-240b-480a-8c80-ef72e46a8afc
+Read port: 53381
+1657484550863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/geld/leichte-sprache-denn-sie-wollen-alle-gerade-zaehne, line 175: TypeError: consent is null
+1657484553102	geckodriver	INFO	Listening on 127.0.0.1:53418
+1657484556146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileVbWFzs"
+1657484556579	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53419
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileVbWFzs\\search.json.mozlz4", (void 0)))
+1657484558769	Marionette	INFO	Listening on port 53443
+Read port: 53443
+1657484558793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53419/devtools/browser/4f1ba947-9516-4341-aaee-979ddaad0f64
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/geduld/leichte-sprache-dann-weiss-google-noch-mehr, line 175: TypeError: consent is null
+1657484561943	geckodriver	INFO	Listening on 127.0.0.1:53480
+1657484564970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileW5Xlty"
+1657484565359	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53481
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileW5Xlty\\search.json.mozlz4", (void 0)))
+1657484567466	Marionette	INFO	Listening on port 53505
+Read port: 53505
+1657484567532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53481/devtools/browser/9797afb0-cb71-4ec1-9e70-3f7c948a6fd1
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/mobilitaet/leichte-sprache-hauptsache-das-gras-ist-gruen, line 175: TypeError: consent is null
+1657484570415	geckodriver	INFO	Listening on 127.0.0.1:53546
+1657484573477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1IFdxo"
+1657484573901	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53547
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile1IFdxo\\search.json.mozlz4", (void 0)))
+1657484576397	Marionette	INFO	Listening on port 53580
+DevTools listening on ws://localhost:53547/devtools/browser/61343e7c-8d6c-4703-b4f1-f0390037c8b1
+Read port: 53580
+1657484576456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/sicherheit/leichte-sprache-manchmal-muss-die-polizei-ins-internet, line 175: TypeError: consent is null
+1657484578587	geckodriver	INFO	Listening on 127.0.0.1:53630
+1657484581618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilelbXoKF"
+1657484582039	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53631
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilelbXoKF\\search.json.mozlz4", (void 0)))
+1657484584542	Marionette	INFO	Listening on port 53655
+DevTools listening on ws://localhost:53631/devtools/browser/1a6a9191-a5e4-42a2-8095-5990297749e5
+Read port: 53655
+1657484584593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/marketing/dann-hat-die-firma-pech-dann-muss-sie-marketing-machen, line 175: TypeError: consent is null
+1657484586637	geckodriver	INFO	Listening on 127.0.0.1:53692
+1657484589672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileRqsX7R"
+1657484590091	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53693
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileRqsX7R\\search.json.mozlz4", (void 0)))
+1657484592342	Marionette	INFO	Listening on port 53716
+DevTools listening on ws://localhost:53693/devtools/browser/aba5365f-c279-430d-833f-ce936e2db35f
+Read port: 53716
+1657484592441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/reset/bitcoins-leichte-sprache, line 175: TypeError: consent is null
+1657484594029	geckodriver	INFO	Listening on 127.0.0.1:53753
+1657484597066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQrmchW"
+1657484597596	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53754
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQrmchW\\search.json.mozlz4", (void 0)))
+1657484600149	Marionette	INFO	Listening on port 53784
+DevTools listening on ws://localhost:53754/devtools/browser/550464b1-a680-4805-99cc-e853017f6383
+Read port: 53784
+1657484600246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/ueberraschung/denn-der-wald-ist-wichtig, line 175: TypeError: consent is null
+1657484601981	geckodriver	INFO	Listening on 127.0.0.1:53821
+1657484604994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoHSrJF"
+1657484605400	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53822
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileoHSrJF\\search.json.mozlz4", (void 0)))
+1657484607595	Marionette	INFO	Listening on port 53849
+DevTools listening on ws://localhost:53822/devtools/browser/d37d6642-869b-4f90-97e3-d7adb336927b
+Read port: 53849
+1657484607667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/frauen-maenner/auf-dem-salat-liegt-eine-muschel, line 175: TypeError: consent is null
+1657484609774	geckodriver	INFO	Listening on 127.0.0.1:53887
+1657484612799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileCeDMn1"
+1657484613170	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53888
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileCeDMn1\\search.json.mozlz4", (void 0)))
+1657484615403	Marionette	INFO	Listening on port 53921
+DevTools listening on ws://localhost:53888/devtools/browser/4813e6ee-656a-4125-bd17-ea805ab5fb36
+Read port: 53921
+1657484615452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/strategie/das-war-sehr-frech-von-ihnen, line 175: TypeError: consent is null
+1657484618578	geckodriver	INFO	Listening on 127.0.0.1:53961
+1657484621623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile5RanTl"
+1657484622123	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53962
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile5RanTl\\search.json.mozlz4", (void 0)))
+1657484624242	Marionette	INFO	Listening on port 53990
+Read port: 53990
+1657484624285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53962/devtools/browser/9b2f1277-0bf4-47ff-accd-fdbffeedb165
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/loslassen/solange-putze-ich-diesen-zahn-schon, line 175: TypeError: consent is null
+1657484626506	geckodriver	INFO	Listening on 127.0.0.1:54025
+1657484629556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4xZy8x"
+1657484629945	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54026
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile4xZy8x\\search.json.mozlz4", (void 0)))
+1657484632175	Marionette	INFO	Listening on port 54051
+DevTools listening on ws://localhost:54026/devtools/browser/2845e6fd-da32-4dc8-bf64-2ef23f0ed064
+Read port: 54051
+1657484632228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/wettbewerb/einer-muss-draussen-stehen-und-winken, line 175: TypeError: consent is null
+1657484634178	geckodriver	INFO	Listening on 127.0.0.1:54087
+1657484637206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileVqQlCR"
+1657484637600	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54088
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileVqQlCR\\search.json.mozlz4", (void 0)))
+1657484639776	Marionette	INFO	Listening on port 54113
+DevTools listening on ws://localhost:54088/devtools/browser/21f6de87-c740-4181-9c06-804bbcf11efc
+Read port: 54113
+1657484639880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/umsonst/es-gibt-sogar-einen-hausmeister, line 175: TypeError: consent is null
+1657484641882	geckodriver	INFO	Listening on 127.0.0.1:54149
+1657484644943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileR7iLEU"
+1657484645350	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54150
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileR7iLEU\\search.json.mozlz4", (void 0)))
+1657484647607	Marionette	INFO	Listening on port 54177
+DevTools listening on ws://localhost:54150/devtools/browser/09207516-3575-4c72-853f-9845bd1baaba
+Read port: 54177
+1657484647720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/fortschritt/was-aendert-sich-fuer-mich, line 175: TypeError: consent is null
+1657484649409	geckodriver	INFO	Listening on 127.0.0.1:54211
+1657484652438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilet1WDka"
+1657484652825	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54212
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofilet1WDka\\search.json.mozlz4", (void 0)))
+1657484654881	Marionette	INFO	Listening on port 54245
+DevTools listening on ws://localhost:54212/devtools/browser/285dcd7a-2ccd-44de-ac1e-9e58a2acd9d1
+Read port: 54245
+1657484654992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/mut/frueher-waren-die-mitarbeiter-manchmal-traurig, line 175: TypeError: consent is null
+1657484656726	geckodriver	INFO	Listening on 127.0.0.1:54281
+1657484659768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQdnfOz"
+1657484660172	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54282
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileQdnfOz\\search.json.mozlz4", (void 0)))
+1657484662496	Marionette	INFO	Listening on port 54308
+DevTools listening on ws://localhost:54282/devtools/browser/072c8b50-c7d7-48b4-8117-d12400216280
+Read port: 54308
+1657484662548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/neue-arbeit/oft-verlierst-du-geld-weil-die-leute-ihre-meinung-aendern, line 175: TypeError: consent is null
+1657484664643	geckodriver	INFO	Listening on 127.0.0.1:54343
+1657484667659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile8SvfpP"
+1657484668072	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54344
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile8SvfpP\\search.json.mozlz4", (void 0)))
+1657484670315	Marionette	INFO	Listening on port 54378
+DevTools listening on ws://localhost:54344/devtools/browser/e0fe31cf-6c04-4033-a5bf-a6c9217595e5
+Read port: 54378
+1657484670431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/marketing/du-kannst-gerne-mit-deinen-feinden-bloedsinn-machen, line 175: TypeError: consent is null
+1657484673661	geckodriver	INFO	Listening on 127.0.0.1:54412
+1657484676690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileB1VrqN"
+1657484677084	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54413
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileB1VrqN\\search.json.mozlz4", (void 0)))
+1657484679328	Marionette	INFO	Listening on port 54440
+DevTools listening on ws://localhost:54413/devtools/browser/6bcdc2c4-f5ac-44e0-b09c-7bd28867354c
+Read port: 54440
+1657484679454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2017/offenheit/dafuer-haben-wir-ganz-viele-regeln-gemacht, line 175: TypeError: consent is null
+1657484682544	geckodriver	INFO	Listening on 127.0.0.1:54474
+1657484685592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileial6vu"
+1657484685998	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54475
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileial6vu\\search.json.mozlz4", (void 0)))
+1657484688349	Marionette	INFO	Listening on port 54501
+DevTools listening on ws://localhost:54475/devtools/browser/d56e941b-cf04-49fa-80c9-dc53794db1af
+Read port: 54501
+1657484688504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/geschmack/also-dachte-josef-ich-mache-lieber-schluss, line 175: TypeError: consent is null
+1657484691121	geckodriver	INFO	Listening on 127.0.0.1:54541
+1657484694145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileAq13Gf"
+1657484694576	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54542
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileAq13Gf\\search.json.mozlz4", (void 0)))
+1657484696751	Marionette	INFO	Listening on port 54573
+DevTools listening on ws://localhost:54542/devtools/browser/d2f7d7bf-091b-45ae-9664-9059e3c9f5ef
+Read port: 54573
+1657484696812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/intuition/wir-haben-sie-nicht-gut-beraten, line 175: TypeError: consent is null
+1657484699220	geckodriver	INFO	Listening on 127.0.0.1:54608
+1657484702260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXq6Utx"
+1657484702688	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54609
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileXq6Utx\\search.json.mozlz4", (void 0)))
+1657484705164	Marionette	INFO	Listening on port 54651
+DevTools listening on ws://localhost:54609/devtools/browser/4e28b4e2-2cdc-4a5a-88f4-99e39102c29d
+Read port: 54651
+1657484705231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/gesundheit/wenn-mein-kollege-mit-absicht-boese-zu-mir-ist, line 179: TypeError: consent is null
+1657484707826	geckodriver	INFO	Listening on 127.0.0.1:54689
+1657484710884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileBAzcn1"
+1657484711386	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54690
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofileBAzcn1\\search.json.mozlz4", (void 0)))
+1657484714116	Marionette	INFO	Listening on port 54719
+DevTools listening on ws://localhost:54690/devtools/browser/fcd56a1e-28ad-4bf2-96aa-ab044d95f964
+Read port: 54719
+1657484714301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/vorbilder/apple-weiss-wo-ich-wohne, line 175: TypeError: consent is null
+1657484716939	geckodriver	INFO	Listening on 127.0.0.1:54770
+1657484719971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile8nFVj0"
+1657484720489	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54771
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\daber\\AppData\\Local\\Temp\\rust_mozprofile8nFVj0\\search.json.mozlz4", (void 0)))
+1657484723049	Marionette	INFO	Listening on port 54816
+DevTools listening on ws://localhost:54771/devtools/browser/24fdfe88-a94c-4de7-bc38-399c3c26d35e
+Read port: 54816
+1657484723267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2016/lust/david-cameron-ist-sich-ganz-sicher, line 175: TypeError: consent is null
