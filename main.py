@@ -98,6 +98,10 @@ def getparagraphs(url):
     for p in listofp:
         if p.text.__contains__('Text: ') or p.text.__contains__('Holger Fröhlich') or p.text.__contains__('Lust auf mehr') or p.text.__contains__('Mehr zum Thema') or p.text.__contains__('📫')  or p.text.__contains__("Abonnieren Sie unseren Newsletter") or p.text.__contains__("Ich habe die Informationen zum Datenschutz gelesen") or p.text.__contains__("Die Leichte Sprache nimmt den Inhalt"):
             continue
+        #check whether there is a red paragreaph without a black one:
+        if red and not black:
+            log("red withouth black: " + url)
+            continue
         #append black paragrahs to the first part of the csv line and write line if black and red are already written
         if checkcolor(p) == "rgb(0, 0, 0)":
             if black and red:
@@ -107,12 +111,10 @@ def getparagraphs(url):
 
             black = True
             line[0] = line[0] + p.text
-            #line[0].append(p.text)
         #append red paragraphs to the second part of the paragraph
         if checkcolor(p) == "rgb(255, 0, 0)":
             red = True
             line[1] = line[1] + p.text
-            #line[1].append(p.text)
     if line[0] != "" and line[1] != "":
         writer.writerow(line)
 
