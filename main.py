@@ -93,7 +93,7 @@ def file(text):
     for t in text:
         # log(temp)
         filetest.write(t)
-        filetest.write("\n\n\n\n\n ")
+        filetest.write("\n\n\n\n\n")
         temp += 1
     filetest.close()
 
@@ -115,19 +115,21 @@ def getparagraphs(url):
         if red and not black:
             log("red withouth black: " + url)
             continue
+
         #append black paragrahs to the first part of the csv line and write line if black and red are already written
         if checkcolor(p) == "rgb(0, 0, 0)":
             if black and red:
                 writer.writerow(line)
                 red = 0
                 line = ["", "", url]
-
             black = True
             line[0] = line[0] + p.text
+
         #append red paragraphs to the second part of the paragraph
         if checkcolor(p) == "rgb(255, 0, 0)":
             red = True
             line[1] = line[1] + p.text
+
     if line[0] != "" and line[1] != "":
         writer.writerow(line)
 
