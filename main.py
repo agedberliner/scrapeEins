@@ -8,6 +8,19 @@ from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 
+#rouge is a tool to calculate alignment scores
+from rouge import Rouge
+
+
+#rouge test:
+def rougetest():
+    generated = "Willst du bei der Firma Otto arbeiten?Wir suchen jemanden für die „Unternehmens·Kommunikation“.\nDiese Abteilung organisiert das Gespräch mit unseren Kunden.\nBei der Firma Otto heißt diese Abteilung „Ottocomms“.\nDu kennst dich gut bei Facebook, Instagram und Twitter aus?\nSachen messen und verstehen macht dir Spaß?\nDann solltest du dich bei uns bewerben."
+    reference = "Bei anderen (…) Erzeugnissen darf nicht durch Etikett, Handelsdokumente, Werbematerial, Werbung irgendwelcher Art im Sinne des Artikels 2 der Richtlinie 2006 / 114 / EG des Europäischen Parlaments und des Rates (34) oder Aufmachung irgendwelcher Art behauptet oder der Eindruck erweckt werden, dass es sich bei dem betreffenden Erzeugnis um ein Milcherzeugnis handelt."
+    rouge = Rouge()
+    print(rouge.get_scores(generated, reference))
+
+
+
 # //*[@id="textblock_233905"]/div/div/p/span[1]
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.color import Color
@@ -126,20 +139,25 @@ def checkcolor(p):
     except NoSuchElementException:
         return p.value_of_css_property("color")
 
-
+run = True
+rouge = False
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    brandeinsurl = 'https://www.brandeins.de/themen/rubriken/leichte-sprache'  # brand eins website
-    browser = webdriver.Firefox()  # starts the browser
-    # path = '/html/body/div[2]/main/section[2]/div/div/p'
-    arts = getarticles(brandeinsurl)
-    # txt = gettext(arts)
-    # file(txt)
-    csvcat = ['complex', 'simple', 'source']  # first line of the csv
-    f = open('brandeins.csv', 'w', encoding='UTF8')  # creates or opens a new csv file and writes the first line
-    writer = csv.writer(f)
-    writer.writerow(csvcat)
+    if run:
+        brandeinsurl = 'https://www.brandeins.de/themen/rubriken/leichte-sprache'  # brand eins website
+        browser = webdriver.Firefox()  # starts the browser
+        # path = '/html/body/div[2]/main/section[2]/div/div/p'
+        arts = getarticles(brandeinsurl)
+        # txt = gettext(arts)
+        # file(txt)
+        csvcat = ['complex', 'simple', 'source']  # first line of the csv
+        f = open('brandeins.csv', 'w', encoding='UTF8')  # creates or opens a new csv file and writes the first line
+        writer = csv.writer(f)
+        writer.writerow(csvcat)
 
-    # loop over all articles and scrape paragraphs
-    for a in arts:
-        getparagraphs(a)
+        # loop over all articles and scrape paragraphs
+        for a in arts:
+            getparagraphs(a)
+
+    if rouge:
+        rougetest()
