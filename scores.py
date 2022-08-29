@@ -20,28 +20,42 @@ with open('brandeins.csv', newline='', encoding="utf-8") as f:
         simple.append(row[1])
         simpleinv.insert(0, row[1])
 
+scoresComSim = rouge.get_scores(comple, simple)
+scoresComSimInv = rouge.get_scores(comple, simpleinv)
+scoresComComInv = rouge.get_scores(comple, compleinv)
 
-scores = rouge.get_scores(comple, simple)
-scoresSimInv = rouge.get_scores(comple, simpleinv)
-#scoresComInv = rouge.get_scores(compleinv, simple)
+scoresSimCom = rouge.get_scores(simple, comple)
+scoresSimComInv = rouge.get_scores(simple, compleinv)
+scoresSimSimInv = rouge.get_scores(simple, simpleinv)
 
 
-counter = 0
 rouge1 = []
-rouge1SimInv = []
 rouge2 = []
 rougel = []
-rougelSimInv = []
-while counter < len(scores):
-    rouge1.append(scores[counter]["rouge-1"]["f"])
-    rouge1SimInv.append(scoresSimInv[counter]["rouge-1"]["f"])
-    rouge2.append(scores[counter]["rouge-2"]["f"])
-    rougel.append(scores[counter]["rouge-l"]["f"])
-    rougelSimInv.append(scoresSimInv[counter]["rouge-l"]["f"])
-    counter = counter + 1
+
+
+def calculaterouge(scores):
+    counter = 0
+    while counter < len(scores):
+        rouge1.append(scores[counter]["rouge-1"]["f"])
+        rouge2.append(scores[counter]["rouge-2"]["f"])
+        rougel.append(scores[counter]["rouge-l"]["f"])
+        counter = counter + 1
+
+
+calculaterouge(scoresSimCom)
+
 
 yaxis = plt.gca()
 yaxis.set_ylim([0, 1])
+
 plt.plot(rouge1)
-plt.plot(rouge1SimInv)
 plt.show()
+
+
+log = False
+
+
+def log(string):
+    if log:
+        print(string)
